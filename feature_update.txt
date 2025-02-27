@@ -1,0 +1,3 @@
+this is about creating anew repository
+now making changes in main
+commiting changes into feature_detail
